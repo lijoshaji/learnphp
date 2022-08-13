@@ -20,6 +20,11 @@ echo '<br>';
 echo 10 / 2;
 echo '<br>';
 echo 10 % 3;
+echo '<br>';
+define('LIJO' , 'nediyath');
+define('DB_LIJO' , 'tb_lijo');
+
+echo LIJO;
 
 
 
